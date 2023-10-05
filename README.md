@@ -123,6 +123,8 @@ Alternatives:
 - [`.py` template]() (Google Drive, ND users)
 - [Jupyter Notebook, `.ipynb`]() (Google Colab, ND users)
 
+## Part I Questions
+
 Q1: Write a program that converts integer, float, or boolean values to a string, using the `str()` function.
 
 Q2: Write a program that prompts the user to enter a 6-letter word, and then prints the first, third, and fifth letters of that word.
@@ -202,6 +204,8 @@ Q10: Write a program that creates the set `s` with the following values: `[1, 3,
 - Remove a value from the set
 
 Answer to this question includes program + comments that document process and explain your code.
+
+## Part II Questions
 
 Q11: Write a program that asks a user to enter a color value and returns an output message comparing that value with your favorite color. This program will use a combination of the `input()` function, comparison operators, and `if-then-else` logic. Answer to this question includes program + comments that document process and explain your code.
 
@@ -357,6 +361,7 @@ happy
 
 HINT: How could an `if` statement be helpful to achieve this output? 
 
+## Part III Questions
 
 Q19A: Describe how you would start building out a program to accomplish this task (print a string a specific number of times)? What functions, statements, or keywords would you need to use? How would you start to organize this program?
 
