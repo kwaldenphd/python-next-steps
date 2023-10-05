@@ -39,9 +39,9 @@ This last section of this lab provides an overview of foundational programming c
 - [Lab Notebook Questions](#lab-notebook-questions)
 
 # Key Concepts
-- [Part I key concepts]()
-- [Part II key concepts]()
-- [Part III key concepts]()
+- [Part I key concepts](https://github.com/kwaldenphd/python-next-steps/blob/main/part-i-key-concepts.md)
+- [Part II key concepts](https://github.com/kwaldenphd/python-next-steps/blob/main/part-ii-key-concepts.md)
+- [Part III key concepts](https://github.com/kwaldenphd/python-next-steps/blob/main/part-iii-key-concepts.md)
 
 # Lab Notebook Template
 
