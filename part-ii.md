@@ -24,7 +24,7 @@
 - [Putting It All Together](#putting-it-all-together)
 - [Lab Notebook Questions (for this section)](#lab-notebook-questions-for-this-section)
 
-[Click here]() to access this section of the lab procedure as a Jupyter Notebook (Google CoLab, ND users)
+[Click here](https://colab.research.google.com/drive/1SpA0gG6AuhxhXjdlO2PkOO80G-bkcKAY?usp=sharing) to access this section of the lab procedure as a Jupyter Notebook (Google CoLab, ND users)
 
 
 # Lecture & Live Coding
