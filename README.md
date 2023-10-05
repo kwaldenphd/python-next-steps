@@ -45,7 +45,7 @@ This last section of this lab provides an overview of foundational programming c
 
 # Lab Notebook Template
 
-[Click here]() to make a copy of the Replit template for this lab.
+[Click here](https://replit.com/team/eoc-f23/Python-Next-Steps) to make a copy of the Replit template for this lab.
 
 Alternatives:
 - [`.py` template]() (Google Drive, ND users)
