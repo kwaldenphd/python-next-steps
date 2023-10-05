@@ -33,7 +33,7 @@ This last section of this lab provides an overview of foundational programming c
 - [Key Concepts](#key-concepts)
 - [Lab Notebook Template](#lab-notebook-template)
 - [Part I: Secondary Data Structures](#part-i-secondary-data-structures)
-- [Part II: Control Structures, Iteration & Loops](#part-ii-control-structures)
+- [Part II: Control Structures, Iteration & Loops](#part-ii-control-structures-iteration--loops)
 - [Part III: Functions](#part-iii-functions)
 - [How to Submit This Lab (and show your work)](#how-to-submit-this-lab-and-show-your-work)
 - [Lab Notebook Questions](#lab-notebook-questions)
