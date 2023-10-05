@@ -3,6 +3,7 @@
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>This tutorial was written by Katherine Walden and is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
+- [Key Concepts](#key-concepts)
 - [Overview](#overview)
   * [Linear Arrays](#linear-arrays)
   * [Indexing in Python](#indexing-in-python)
@@ -18,6 +19,10 @@
 - [Lab Notebook Questions (for this section)](#lab-notebook-questions-for-this-section)
 
 [Click here]() to access this section of the lab as a Jupyter Notebook (Google CoLab, ND users)
+
+## Key Concepts
+
+[Click here]() for a full list of key concepts and definitions from this section of the lab.
 
 # Overview
 
