@@ -48,7 +48,7 @@ This last section of this lab provides an overview of foundational programming c
 [Click here](https://replit.com/team/eoc-f23/Python-Next-Steps) to make a copy of the Replit template for this lab.
 
 Alternatives:
-- [`.py` template]() (Google Drive, ND users)
+- [`.py` template](https://drive.google.com/file/d/1OWt8cBbLlr88eQkH8nrSE-RytluwjHbo/view?usp=sharing) (Google Drive, ND users)
 - [Jupyter Notebook, `.ipynb`]() (Google Colab, ND users)
 
 # Part I: Secondary Data Structures
