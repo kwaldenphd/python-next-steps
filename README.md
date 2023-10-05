@@ -71,7 +71,7 @@ In this lab, we're going to focus on some of the one-dimensional (or linear) dat
 
 [Click here](https://github.com/kwaldenphd/python-next-steps/blob/main/part-i.md) to access this section of the lab.
 
-# Part II: Control Structures, Iterations & Loops
+# Part II: Control Structures, Iteration & Loops
 
 From Busbee and Braunschweig's "[Structured Programming](https://press.rebus.community/programmingfundamentals/chapter/structured-programming/)" from *Programming Fundamentals*
     
