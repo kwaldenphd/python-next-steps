@@ -22,7 +22,7 @@
 
 ## Key Concepts
 
-[Click here]() for a full list of key concepts and definitions from this section of the lab.
+[Click here](https://github.com/kwaldenphd/python-next-steps/blob/main/part-i-key-concepts.md) for a full list of key concepts and definitions from this section of the lab.
 
 # Overview
 
