@@ -23,6 +23,26 @@
 
 [Click here]() to access this lab procedure as a Jupyter Notebook.
 
+# Lecture & Live Coding
+
+Throughout this lab, you will see a Panopto icon at the start of select sections.
+
+This icon indicates there is lecture/live coding asynchronous content that accompanies this section of the lab. 
+
+You can click the link in the figure caption to access these materials (ND users only).
+
+Example:
+
+<table>
+ <tr><td>
+<img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
+<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?pid=37efcba3-92d5-4e59-a49b-af36012a7807">Lecture/live coding playlist</a></td>
+  </tr>
+  </table>
+
+# Key Concepts
+
+[Click here](https://github.com/kwaldenphd/python-next-steps/blob/main/part-iii-key-concepts.md) for a full list of key concepts and definitions from this section of the lab. 
 # Overview
 
 From Busbee and Braunschweig's "[Structured Programming](https://press.rebus.community/programmingfundamentals/chapter/structured-programming/)," in *Programming Fundamentals*:
