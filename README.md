@@ -123,49 +123,255 @@ Alternatives:
 - [`.py` template]() (Google Drive, ND users)
 - [Jupyter Notebook, `.ipynb`]() (Google Colab, ND users)
 
-Q1
+Q1: Write a program that converts integer, float, or boolean values to a string, using the `str()` function.
 
-Q2
+Q2: Write a program that prompts the user to enter a 6-letter word, and then prints the first, third, and fifth letters of that word.
 
-Q3
+Q3: Modify the program provided below to search for the character `q` or `u` in the string. Does it always return the index number you expect? What index is returned if you ask for the index of the letter u (i.e., what happens when the desired character appears more than once in the string)?
 
-Q4
+```Python
+# program you're modifying for Q8
+# assign string variable
+color = "turquoise"
 
-Q5
+# get index number of t character
+index_number = color.index("t")
 
-Q6
+# show index number as part of print statement
+print ("The index number for the letter t within the word " + color + " is " + index_number)
+```
 
-Q7
+Q4: Write a program that creates a list of numbers. Use the arguments and syntax presented in this section of the lab to include code in your program that answers the following questions:
+- What is the length of your list? 
+- What is the number position for each of the items in your list? 
+- How would you return the value of the first item? 
+- How would you return the value of the last item?
 
-Q8
+Answer to this question includes program + comments that document process and explain your code.
 
-Q9
+Q5: Modify your Q4 program (working with the same list), using arguments and syntax covered in this section of the lab to accomplish the following tasks:
+- Add a new item to your list
+- Delete an item from your list
+- Sort your list in-place
+- Generate a sorted version of your list
+- Reverse your list in-place
+- Determine the min and max values for your list
 
-Q10
+Answer to this question includes program + comments that document process and explain your code.
 
-Q11
+Q6: Write a program that creates a list with the following values: `[[0, 1], [2, 3], [4, 5]]`. Use the arguments and syntax presented in this section of the lab to include code in your program that answers the following questions:
+- What is the second element?
+- How would you change 4 to 'four'?
+- How would you change 1 to 'one'?
+- How would you print out each sub-list (one sub-list per line)?
+  * *HINT: Could a `for` loop be helpful for this task?*
+- How would you print out each number (one number per line)?
+  * *HINT: Could a `for` loop be helpful for this task?*
 
-Q12
+Answer to this question includes program + comments that document process and explain your code.
 
-Q13
+Q7: Modify your Q6 program (working with the same list), using arguments and syntax covered in this section of the lab to accomplish the following tasks:
+- Add a new item to your list
+- Delete an item from your list
+- Sort your list in-place
+- Generate a sorted version of your list
+- Reverse your list in-place
+- Determine the min and max values for your list
 
-Q14
+Answer to this question includes program + comments that document process and explain your code.
 
-Q15
+Q8: Write a program that creates a dictionary on a topic of your choosing. Include at least 5 key-value pairs. Use arguments and syntax covered in this section of the lab to accomplish the following tasks:
+- Add a new element to your dictionary
+- Update or modify an element in your dictionary
+- Print a list of all the keys in your dictionary
+- Print a list of all the values in your dictionary
 
-Q16
+Answer to this question includes program + comments that document process and explain your code.
 
-Q17
+Q9: Write a program that creates a tuple with at least 4 values. Use arguments and syntax covered in this section of the lab to accomplish the following tasks:
+- Count the number of times a specific value appears
+- Return the index for a specific value
+- Access a value using its index
 
-Q18
+Answer to this question includes program + comments that document process and explain your code.
 
-Q19
+Q10: Write a program that creates the set `s` with the following values: `[1, 3, 5, 7, 9]`. Use arguments and syntax covered in this section of the lab to accomplish the following tasks:
+- Test to see if the value `11` is a member of the set
+- Test to see if the value `7` is a member of the set
+- Add a value to the set
+- Remove a value from the set
 
-Q20
+Answer to this question includes program + comments that document process and explain your code.
 
-Q21
+Q11: Write a program that asks a user to enter a color value and returns an output message comparing that value with your favorite color. This program will use a combination of the `input()` function, comparison operators, and `if-then-else` logic. Answer to this question includes program + comments that document process and explain your code.
 
-Q22
+Sample output for this program:
+```
+Your favorite color: green
 
-Q23
+My age: blue
 
+We don't have the same favorite color.
+```
+
+Q12: Write a program that lets the user play a guessing game.
+- First, your program should set a number as the "correct answer"
+- Then, your program will ask the user to guess a number
+- Your program should give a message indicating whether the user's guess is correct, too high, or too low
+
+This program will use a combination of the `input()` function, comparison operators, and `if-then-else` logic. Answer to this question includes program + comments that document process and explain your code.
+
+Sample output for this program (for a correct answer of 7:
+```
+You guessed 13.
+```
+
+Q13: Given the following program:
+
+```Python
+# assign count variable
+count = 1
+
+# while loop
+while count <= 5: # initial condition
+   print ("Python") # print statement
+   count = count + 1 # reassign count
+
+# final print statement
+print ("Done")
+```
+
+How would you modify the program to print or output the string nine (9) times and also include line numbers as part of the output? Answer to this question includes program + comments that document process and explain your code.
+
+For example, your output might look like the following: 
+
+```
+1 Python
+2 Python
+3 Python
+4 Python
+5 Python 
+6 Python
+7 Python
+8 Python
+9 Python
+IS FUN!
+```
+
+Q14: Let's return to the program we modified for Q13. How would you modify your Q13 answer to use a `for` loop instead of a `while` loop? Answer to this question includes program + comments that document process and explain your code.
+
+```Python
+# assign count variable
+count = 1
+
+# while loop
+while count <= 5: # initial condition
+   print ("Python") # print statement
+   count = count + 1 # reassign count
+
+# final print statement
+print ("Done")
+```
+
+As a reminder, your output might look like the following: 
+
+```
+1 Python
+2 Python
+3 Python
+4 Python
+5 Python 
+6 Python
+7 Python
+8 Python
+9 Python
+IS FUN!
+```
+
+Q15: In a previous program, you were asked to modify the program below to search for the characters `q` and `u` in the string `turquoise`. 
+
+Program you modified:
+```Python
+# assign string variable
+color = "turquoise"
+
+# get index number of t character
+index_number = color.index("t")
+
+# show index number as part of print statement
+print ("The index number for the letter t within the word " + color + " is " + index_number)
+```
+
+Write a program that uses a `for` loop to return all instances of `q` and `u` in the string, not just the first occurrence. Answer to this question includes program + comments that document process and explain your code.
+
+NOTE: For the following lab notebook questions, write two programs for each- one that uses a `while` loop and one that uses a `for` loop to accomplish the same task. 
+
+Q16: Write a program that counts from 10 down to 1, and then prints "Blastoff!" Answer to this question includes programs with a `while` loop and a `for` loop + comments that document process and explain your code.
+
+Your output should similar to the following:
+```
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Blastoff!
+```
+
+Q17: Write a program that asks the user to enter three numbers: a starting value, an ending value, and an increment. Your program should then "count" based on these criteria, as shown in the sample output below. Answer to this question includes programs with a `while` loop and a `for` loop + comments that document process and explain your code.
+
+```
+This program counts for you.
+Enter the starting value: 3
+Enter the ending value: 13
+Enter the increment: 2
+3
+5
+7
+9
+11
+13
+```
+
+Q18: Write a program that prints the numbers 1 through 10, except that between 7 and 8 it should print the word "happy." Answer to this question includes programs with a `while` loop and a `for` loop + comments that document process and explain your code.
+
+Sample output for this program:
+```
+1
+2
+3
+4
+5
+6
+7
+happy
+8
+9
+10
+```
+
+HINT: How could an `if` statement be helpful to achieve this output? 
+
+
+Q19A: Describe how you would start building out a program to accomplish this task (print a string a specific number of times)? What functions, statements, or keywords would you need to use? How would you start to organize this program?
+
+Q19B: See where you can get with writing this program. What parts of the program were you able to get working? Where did you run into challenges? Answer to this question includes program + comments that document process and explain your code.
+
+Q19C: How does the sample program compare to your approach? What was similar? What was different? How are you thinking differently (if at all) about how to approach this type of program?
+
+Q20A: Modify the program you built for the previous section of the lab to take specific values as inputs (rather than get inputs as part of the function). Answer to this question includes program + comments that document process and explain your code.
+
+Q20B: Then, create a named function and function call for this program. Answer to this question includes program + comments that document process and explain your code.
+
+Q20C: What parts of the program were you able to get working? Where did you run into challenges?
+
+Q21: Write a function is_even that determines whether or not a number n is even. Include the function definition as well as a sample function call. Answer to this question includes program + comments that document process and explain your code.
+
+Q22: Write a function average that determines the average value of a list. Include the function definition as well as a sample function call. Answer to this question includes program + comments that document process and explain your code.
+
+Q23: Write a function uniq that takes a list and returns a new list containing only unique values. Include the function definition as well as a sample function call. Answer to this question includes program + comments that document process and explain your code.
