@@ -49,7 +49,7 @@ This last section of this lab provides an overview of foundational programming c
 
 Alternatives:
 - [`.py` template](https://drive.google.com/file/d/1OWt8cBbLlr88eQkH8nrSE-RytluwjHbo/view?usp=sharing) (Google Drive, ND users)
-- [Jupyter Notebook, `.ipynb`]() (Google Colab, ND users)
+- [Jupyter Notebook, `.ipynb`](https://colab.research.google.com/drive/1SG3C4QJNOMqpWmaAqDUpaWYl_hPyFpsm?usp=sharing) (Google Colab, ND users)
 
 # Part I: Secondary Data Structures
 
@@ -117,11 +117,11 @@ What gets submitted as the lab notebook is the `Lab_Notebook_Walden.py` file.
 
 # Lab Notebook Questions
 
-[Click here]() to make a copy of the Replit template for this lab.
+[Click here](https://replit.com/team/eoc-f23/Python-Next-Steps) to make a copy of the Replit template for this lab.
 
 Alternatives:
-- [`.py` template]() (Google Drive, ND users)
-- [Jupyter Notebook, `.ipynb`]() (Google Colab, ND users)
+- [`.py` template](https://drive.google.com/file/d/1OWt8cBbLlr88eQkH8nrSE-RytluwjHbo/view?usp=sharing) (Google Drive, ND users)
+- [Jupyter Notebook, `.ipynb`](https://colab.research.google.com/drive/1SG3C4QJNOMqpWmaAqDUpaWYl_hPyFpsm?usp=sharing) (Google Colab, ND users)
 
 ## Part I Questions (secondary data structures)
 
