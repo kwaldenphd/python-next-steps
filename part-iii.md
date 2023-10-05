@@ -21,7 +21,7 @@
   * [Code Reuse & Modularity](#code-reuse--modularity-aka-a-quick-detour-into-modules-packages-and-libraries)
 - [Lab Notebook Questions (for this section)](#lab-notebook-questions-for-this-section)
 
-[Click here]() to access this lab procedure as a Jupyter Notebook.
+[Click here](https://colab.research.google.com/drive/1FRyEFhLpirsPS7Zeqg7tuvBv9DRfJIb5?usp=sharing) to access this lab procedure as a Jupyter Notebook.
 
 # Lecture & Live Coding
 
