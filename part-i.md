@@ -18,7 +18,7 @@
 - [Additional Resources](#additional-resources)
 - [Lab Notebook Questions (for this section)](#lab-notebook-questions-for-this-section)
 
-[Click here]() to access this section of the lab as a Jupyter Notebook (Google CoLab, ND users)
+[Click here](https://colab.research.google.com/drive/1ZbL4x0o3SDYBTCcRM_ZijBZwIyWa22M-?usp=sharing) to access this section of the lab as a Jupyter Notebook (Google CoLab, ND users)
 
 ## Key Concepts
 
